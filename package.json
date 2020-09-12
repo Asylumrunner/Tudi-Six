@@ -1,0 +1,28 @@
+{
+  "name": "tudi-six",
+  "version": "1.0.0",
+  "description": "A node.js discord bot for helping game masters of PbtA RPGs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asylumrunner/Tudi-Six.git"
+  },
+  "keywords": [
+    "tabletop",
+    "rpg",
+    "pbta"
+  ],
+  "author": "Michael Burdick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asylumrunner/Tudi-Six/issues"
+  },
+  "homepage": "https://github.com/Asylumrunner/Tudi-Six#readme",
+  "dependencies": {
+    "aws-sdk": "^2.751.0",
+    "discord.js": "^12.3.1"
+  }
+}
