@@ -1,9 +1,9 @@
-* Build DynamoDB tables and test connection to them
-* Build out command handler file(s)
-* Define character creation command and test
-* Add character edit command
-* Add character deletion command
-* Implement a basic dice roller
+* Build DynamoDB tables and test connection to them X
+* Build out command handler file(s) X
+* Define character creation command and test X
+* Add character edit command X
+* Add character deletion command X
+* Implement a basic dice roller X
 * Add the ability to wound/heal a character
 * Add the ability to give a character experience points
 * Add the ability to add a game
